@@ -113,5 +113,5 @@ Now check the running container...
 ### Open the web browser and enter the ip 0.0.0.0:80(localhost) or if you are using AWS EC2 instance you can use their own public ip
 
 # RESULT :-
-![staticwebsite](GamePage.jpg)
+![staticwebsite](image.jpg)
 
